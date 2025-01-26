@@ -1,1 +1,3 @@
-# F1
+# studies
+
+my study arqs repository 
